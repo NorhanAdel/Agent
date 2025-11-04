@@ -1,0 +1,37 @@
+.add-client-page {
+    background: #fff;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    direction: rtl;
+}
+
+.add-client-page h2 {
+    margin-bottom: 20px;
+    color: #333;
+    font-weight: bold;
+}
+
+.add-client-form .form-group {
+    margin-bottom: 15px;
+}
+
+.add-client-form input {
+    width: 100%;
+    padding: 8px 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.btn.add {
+    background: #007bff;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn.add:hover {
+    background: #0056b3;
+}
